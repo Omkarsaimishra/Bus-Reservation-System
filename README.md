@@ -8,6 +8,9 @@ Features ✨
 - Seat number database
 - Visual seat availability display
 - Existing seat configuration viewer
+- 
 Screenshots 📸
 Login Interface
+user- user
+password-pass
 ![Login Page](login.png)
