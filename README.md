@@ -18,25 +18,25 @@ A C-based command-line application with text-based GUI for comprehensive bus sea
 ## Screenshots 📸
 
 ### Login Interface
-![Login Interface](screenshots/login.png)
+![Login Interface](login.png)
 *Command-line authentication screen with secure input masking*
 
 ### Bus Management
-![Bus List](screenshots/bus%20list.png)
+![Bus List](bus%20list.png)
 *Text-based interface for viewing available buses*
 
 ### Reservation Process
-![Reservation Panel](screenshots/seat%20reservation%20panel.png)
+![Reservation Panel](seat%20reservation%20panel.png)
 *Seat selection interface with visual availability status*
 
-![Bus Reservation Panel](screenshots/Bus%20reservation%20panel.png)
+![Bus Reservation Panel](Bus%20reservation%20panel.png)
 *Main reservation interface with booking options*
 
 ### Database Management
-![Seat Database](screenshots/Seat%20number%20data%20base.png)
+![Seat Database](Seat%20number%20data%20base.png)
 *Database view showing seat-number-to-passenger mapping*
 
-![Name Database](screenshots/Name%20data%20base.png)
+![Name Database](Name%20data%20base.png)
 *Passenger information database storage*
 
 ### Payment System
