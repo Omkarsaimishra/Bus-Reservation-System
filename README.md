@@ -1,6 +1,3 @@
-Here's the corrected C-focused README.md with CLI/CUI (Command Line Interface) details:
-
-```markdown
 # Bus Seat Reservation System 🚌
 
 A C-based command-line application for managing bus seat reservations with basic authentication.
