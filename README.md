@@ -3,7 +3,7 @@
 
 A C-based command-line application with text-based GUI for comprehensive bus seat reservations.
 
-![Main Interface](screenshots/Bus%20reservation%20panel.png)
+![Main Interface](login.png )
 
 ## Features ✨
 - **CMD Text GUI** with menu-driven interface
