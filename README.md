@@ -40,11 +40,11 @@ A C-based command-line application with text-based GUI for comprehensive bus sea
 *Passenger information database storage*
 
 ### Payment System
-![Payment Interface](screenshots/Payment.png)
+![Payment Interface](Payment.png)
 *Text-based payment processing screen*
 
 ### Existing Reservations
-![Existing Seats](screenshots/existing%20seat.png)
+![Existing Seats](existing%20seat.png)
 *Display of current reservations and seat status*
 
 ## Installation & Compilation 💻
