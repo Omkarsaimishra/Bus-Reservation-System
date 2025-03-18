@@ -1,2 +1,13 @@
-# Bus-Reservation-System
-This is a code for Bus Reservation System using c only and having cmd  base gui  
+# Seat Reservation System 🚌
+
+A comprehensive bus seat reservation system with CMD-GUI interface for managing bookings, bus lists, and seat arrangements.
+Features ✨
+- User authentication system
+- Bus list management
+- Interactive seat reservation panel
+- Seat number database
+- Visual seat availability display
+- Existing seat configuration viewer
+Screenshots 📸
+Login Interface
+![Login Page](login.png)
