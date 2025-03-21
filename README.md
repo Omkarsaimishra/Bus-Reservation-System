@@ -49,21 +49,6 @@ A C-based command-line application with text-based GUI for comprehensive bus sea
 
 ## Installation & Compilation 💻
 
-### Requirements
-- GCC Compiler
-- Windows CMD/Linux Terminal
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/bus-reservation-c.git
-cd bus-reservation-c
-
-# Compile program
-gcc main.c -o bus_reservation
-
-# Run executable
-./bus_reservation
-```
 
 ## Usage Guide 📋
 
