@@ -93,13 +93,13 @@ gcc main.c -o bus_reservation
 │   ├── auth.c             # Authentication system
 │   └── database.c         # File handling operations
 ├── data/
-│   ├── buses.dat          # Bus schedule storage
-│   ├── seats.dat          # Seat reservations
-│   └── passengers.dat     # Passenger information
-└── screenshots/           # Interface previews
-    ├── login.png
-    ├── Payment.png
-    └── ...other images
+    ├── buses.dat          # Bus schedule storage
+    ├── seats.dat          # Seat reservations
+    └── passengers.dat     # Passenger information
+                           # Interface previews
+     
+     
+     
 ```
 
 ## Security Notes 🔐
